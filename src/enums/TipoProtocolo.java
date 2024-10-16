@@ -1,0 +1,5 @@
+package enums;
+
+public enum TipoProtocolo {
+    RECLAMACAO, ELOGIO, INFORMACAO, SOLICITACAO, CONSULTA, DENUNCIA, CANCELAMENTO
+}
